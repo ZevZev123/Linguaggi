@@ -1,7 +1,7 @@
 # Appunti e documenti Linguaggi
 Laurea in informatica anno 25/26
 
-I nomi dei file rispettano una forma [aammgg] per rispettare l'ordine cronologico sfruttando l'ordine alfabetico.
+I nomi dei file rispettano una forma [aammgg] o [aa-mm-gg] per rispettare l'ordine cronologico sfruttando l'ordine alfabetico.
 
 ### Organizzazione delle cartelle
 La cartella [appunti](appunti) è divisa in:
@@ -12,7 +12,11 @@ La cartella [appunti](appunti) è divisa in:
 La cartella [Lab](Lab):
 - ... (da sistemare)
 
-***Audio***
+### Scan
+Le prime due scan (26-03-24.pdf e 26-03-25) sono leggermente tagliate a fine pagina.
+Sono assenti tutte le scan delle lezioni precendeti :( .
+
+### Audio
 Gli audio sono comodi per riascoltare le lezioni e/o pezzi di lezioni.
 Negli appunti scritti da me (Zev) sono presenti ogni tanto le ore e i minuti in cui sono stati trattati gli argomenti per facilitare la navigazione durante lo studio.
 I secondi nei miei appunti vengono segnati quando inizia una pausa di intermezzo.
