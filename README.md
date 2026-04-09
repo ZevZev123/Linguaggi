@@ -10,7 +10,9 @@ La cartella [appunti](appunti) è divisa in:
 - ... (altri appunti)
 
 La cartella [Lab](Lab):
-- ... (da sistemare)
+E' suddivisa in sottocartelle con le date della lezione come nominativi
+All'interno sono presenti gli audio (non sempre), gli zip e i file delle lezioni (moodle)
+... (non e' la struttura definitiva, possibili aggiornamenti futuri)
 
 ### Scan
 Le prime due scan (26-03-24.pdf e 26-03-25) sono leggermente tagliate a fine pagina.
@@ -22,9 +24,10 @@ Negli appunti scritti da me (Zev) sono presenti ogni tanto le ore e i minuti in 
 I secondi nei miei appunti vengono segnati quando inizia una pausa di intermezzo.
 
 Sotto una lista degli audio mancanti o dei pezzi di audio:
-- prima mezz'ora di 260325
-- prima mezz'ora di 260401
-- lezione di laboratorio 260402
+- 0.5 ora teoria 260325
+- 0.5 ora teoria 260401
+- tutta lab 260402
+- 1 ora lab 260409
 
 ### Compiti da fare:
 - [ ] Condividere i documenti da moodle
