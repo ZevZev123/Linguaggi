@@ -10,17 +10,17 @@ La cartella [appunti](appunti) è divisa in:
 - ... (altri appunti)
 
 La cartella [Lab](Lab):
-E' suddivisa in sottocartelle con le date della lezione come nominativi
-All'interno sono presenti gli audio (non sempre), gli zip e i file delle lezioni (moodle)
+E' suddivisa in sottocartelle con le date della lezione come nominativi<br>
+All'interno sono presenti gli audio (non sempre), gli zip e i file delle lezioni (moodle)<br>
 ... (non e' la struttura definitiva, possibili aggiornamenti futuri)
 
 ### Scan
-Le prime due scan (26-03-24.pdf e 26-03-25) sono leggermente tagliate a fine pagina.
+Le prime due scan (26-03-24.pdf e 26-03-25) sono leggermente tagliate a fine pagina.<br>
 Sono assenti tutte le scan delle lezioni precendeti :( .
 
 ### Audio
-Gli audio sono comodi per riascoltare le lezioni e/o pezzi di lezioni.
-Negli appunti scritti da me (Zev) sono presenti ogni tanto le ore e i minuti in cui sono stati trattati gli argomenti per facilitare la navigazione durante lo studio.
+Gli audio sono comodi per riascoltare le lezioni e/o pezzi di lezioni.<br>
+Negli appunti scritti da me (Zev) sono presenti ogni tanto le ore e i minuti in cui sono stati trattati gli argomenti per facilitare la navigazione durante lo studio.<br>
 I secondi nei miei appunti vengono segnati quando inizia una pausa di intermezzo.
 
 Sotto una lista degli audio mancanti o dei pezzi di audio:
