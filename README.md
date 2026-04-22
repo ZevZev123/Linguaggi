@@ -28,8 +28,10 @@ Sotto una lista degli audio mancanti o dei pezzi di audio:
 - 0.5 ora teoria 260401
 - tutta lab 260402
 - 1 ora lab 260409
+- tutta teoria 260422
 
 ### Compiti da fare:
 - [ ] Condividere i documenti da moodle
 - [ ] Condividere appunti (Zev)
 - [ ] Sistemare la cartella Lab e il codice
+- [ ] Trovare modo di scaricare video da panopto per le lezioni di laboratorio
