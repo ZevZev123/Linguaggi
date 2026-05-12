@@ -7,12 +7,14 @@ I nomi dei file rispettano una forma [aammgg] o [aa-mm-gg] per rispettare l'ordi
 La cartella [appunti](appunti) è divisa in:
 - [audio](appunti/audio) contenente tutti gli audio delle lezioni di teoria;
 - [scan](appunti/scan) contenente i pdf degli appunti della prof.ssa;
-- ... (altri appunti)
 
 La cartella [Lab](Lab):
 E' suddivisa in sottocartelle con le date della lezione come nominativi<br>
-All'interno sono presenti gli audio (non sempre), gli zip e i file delle lezioni (moodle)<br>
-... (non e' la struttura definitiva, possibili aggiornamenti futuri)
+All'interno di ogni cartella ci sono:
+- 2 zip da moodle (codice e soluzione)
+- 2 cartelle estratte dagli zip
+- cartella con codice mio<br><br>
+**NB:** Per chi ne avesse bisogno ho tutte le registrazioni di laboratorio scaricate.
 
 ### Scan
 Le prime due scan (26-03-24.pdf e 26-03-25) sono leggermente tagliate a fine pagina.<br>
@@ -31,7 +33,7 @@ Sotto una lista degli audio mancanti o dei pezzi di audio:
 - tutta teoria 260422
 
 ### Compiti da fare:
-- [ ] Condividere i documenti da moodle
+- [ ] Condividere i documenti da moodle (in corso...)
 - [ ] Condividere appunti (Zev)
 - [ ] Sistemare la cartella Lab e il codice
-- [ ] Trovare modo di scaricare video da panopto per le lezioni di laboratorio
+- [x] Trovare modo di scaricare video da panopto per le lezioni di laboratorio
