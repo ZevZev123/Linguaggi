@@ -26,15 +26,14 @@ Negli appunti scritti da me (Zev) sono presenti ogni tanto le ore e i minuti in 
 I secondi nei miei appunti vengono segnati quando inizia una pausa di intermezzo.
 
 Sotto una lista degli audio mancanti o dei pezzi di audio:
-- 0.5 ora teoria 260325
-- 0.5 ora teoria 260401
-- tutta lab 260402
-- 1 ora lab 260409
-- tutta teoria 260422
+- 0.5 ora 260325
+- 0.5 ora 260401
+- tutta 260422
 - esercizio 1 260512
 
 ### Compiti da fare:
 - [ ] Condividere i documenti da moodle (in corso...)
-- [ ] Condividere appunti (Zev)
-- [ ] Sistemare la cartella Lab e il codice
+- [ ] Condividere appunti (Zev) (in corso...)
+- [x] Sistemare la cartella Lab
+- [ ] Sistemare il codice Lab
 - [x] Trovare modo di scaricare video da panopto per le lezioni di laboratorio
