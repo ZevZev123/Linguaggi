@@ -31,6 +31,7 @@ Sotto una lista degli audio mancanti o dei pezzi di audio:
 - tutta lab 260402
 - 1 ora lab 260409
 - tutta teoria 260422
+- esercizio 1 260512
 
 ### Compiti da fare:
 - [ ] Condividere i documenti da moodle (in corso...)
