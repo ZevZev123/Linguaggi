@@ -49,4 +49,4 @@ Per ogni lezione è disponibile la registrazione su YouTube. Il codice corrispon
 - [x] Sistemare la cartella Lab
 - [ ] Sistemare il codice Lab
 - [x] Trovare modo di scaricare video da panopto per le lezioni di laboratorio
-- [ ] Pubblicare i video di lab su youtube e condividere i link
+- [ ] Pubblicare i video di lab su youtube e condividere i link (in corso...)
