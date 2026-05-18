@@ -42,11 +42,12 @@ Per ogni lezione è disponibile la registrazione su YouTube. Il codice corrispon
 | 26-04-23 | ? | [Video](https://youtu.be/OKsEdZU3sf8) | [260423](./Lab/260423) |
 | 26-04-30 | ? | [Video](https://youtu.be/R-UXw8vKWqU) | [260430](./Lab/260430) |
 | 26-05-07 | ? | [Video](https://youtu.be/vQlbeWNVrtI) | [260507](./Lab/260507) |
+| 26-05-14 | ? | [Video](https://youtu.be/ZYRAHMS4XRY) | [260514](./Lab/260514) |
 
 ## 📝 Compiti da fare:
 - [ ] Condividere i documenti da moodle (in corso...)
 - [ ] Condividere appunti (Zev) (in corso...)
+- [ ] Pubblicare i video di lab su youtube e condividere i link (in corso...)
 - [x] Sistemare la cartella Lab
 - [ ] Sistemare il codice Lab
 - [x] Trovare modo di scaricare video da panopto per le lezioni di laboratorio
-- [ ] Pubblicare i video di lab su youtube e condividere i link (in corso...)
